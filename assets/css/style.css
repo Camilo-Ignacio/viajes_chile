@@ -1,0 +1,57 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*HTML js*/
+html
+{
+    scroll-behavior: auto !important;
+}
+
+div.hola{
+    background:#17A2B8 100% 100% no-repeat padding-box;;
+    color: #ffff;
+    align-items: center;
+}
+
+.navbar{
+    position: fixed;
+    width: 100vw;
+    z-index: 2;
+    background: none;
+}
+
+/* Tarjetjas */
+.card{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    word-wrap: break-word;
+}
+
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* textos viajes quienes somos */
+.texto-centrado{
+    text-align: center;
+}
+
+#Quienessimos p {
+    text-align: justify;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+/* fin comentarios */
+
+.fa-brands {
+    font-size: 80px;
+}
+
+
+/*width: 82px;
+height: 50px;*/
